@@ -29,9 +29,13 @@ This repository will posses several C# project in different folder, because of t
 Objectives :
 
 1-Learning more of component programming in c#.
+
 2-Learning more of network gaming.
+
 3-Learning more of project versionning trought GitHub.
+
 4-Learning more about IA.
+
 5-Developping a full Multiplayer-Game with RPG and Shooter-Like Element a bit in the style of RealmOfTheMadDogs.
 
 Tool : Vs 2015 , XNA framework;
