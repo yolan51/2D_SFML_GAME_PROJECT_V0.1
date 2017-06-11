@@ -12,7 +12,7 @@ Requirement for this project :
 
 You must have basic knowledge of OOP.
 
-Having Visual Studio 2015 with XNA framework.
+Having Visual Studio 2015 with Unity.
 
 Wanting to learn and work with people of different language as I mainly speak french , but I can do fine in english.
 
@@ -38,7 +38,7 @@ Objectives :
 
 5-Developping a full Multiplayer-Game with RPG and Shooter-Like Element a bit in the style of RealmOfTheMadDogs.
 
-Tool : Vs 2015 , XNA framework;
+Tool : Vs 2015 , Unity2d engine;
 
 If you are asking yourself , why not make one solution per project its because it will be easier to test and modify component on the fly if its all in the same place.And if someone have more interest in only one part of the rep he can allways delete what he dont want.
 
