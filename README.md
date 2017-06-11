@@ -1,13 +1,14 @@
 # 2d-Shooter-RogueLike-MasterPiece
 
+(>*.*)>,<(*.*<),(>*.*)>,<(*.*<),(>*.*)>,<(*.*<),(>*.*)>,<(*.*<),(>*.*)>,<(*.*<),(>*.*)>,<(*.*<),
 
-----------------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------------//
 
 I'm an Analyst Programmer , i will use this project to strenghten my knowledge of english, database, uml design, IA , networking. If you are interested by this project, drop-by and say hi.
 
 It will mostly be a project that I will complete on free times over 1 year or 2  maybe from now so I will be there for a while.
 
----------------------------------------------
+//--------------------------------------------//
 
 Requirement for this project :
 
@@ -19,7 +20,7 @@ Wanting to learn and work with people of different language as I mainly speak fr
 
 Knowledge of design patterns and component driven programming would help.
 
-----------------------------------------------------
+//---------------------------------------------------//
 
 Bonus points if you come from Québec :)
 
