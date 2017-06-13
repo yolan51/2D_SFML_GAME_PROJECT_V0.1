@@ -6,55 +6,19 @@ using System.Threading.Tasks;
 using SFML.Graphics;
 using SFML.Window;
 using System.Runtime.InteropServices;
+using _2D_SFML_GAME;
 
-
-namespace SFML._2D_SFML_GAME
+namespace Controler
 {
-
-    class Program
+    class program
     {
-       //Testing Branching
-        [DllImport("kernel32.dll")]
-        static extern IntPtr GetConsoleWindow();
-
-        [DllImport("user32.dll")]
-        static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
-
-        const int SW_HIDE = 0;
-        const int SW_SHOW = 5;
-      
-
-        private static Boolean NoDebugMode = true;
-        static void Main()
+        static void Main(string[] args)
         {
-            SwitchDebugMode(NoDebugMode);
-             RenderWindow window = new RenderWindow(new Window.VideoMode(200, 200), "test");
-            CircleShape cs = new CircleShape(100.0f);
-            cs.FillColor = Color.Green;
-            window.SetActive();
-
-            while (window.IsOpen)
-            {
-                window.Clear();
-                window.DispatchEvents();
-                window.Draw(cs);
-                window.Display();
-            }
+            ImpGame mygame = new ImpGame();
+            mygame.Run();
         }
 
-        static private void  SwitchDebugMode(Boolean NoDebugMode){
-            if (NoDebugMode)
-            {
-                var handle = GetConsoleWindow();
-                ShowWindow(handle, SW_HIDE);
-
-            }
-        }
-
-
-    }   
-
-
+    }
+    
 }
     
-
