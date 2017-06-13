@@ -8,3 +8,13 @@ C:\Users\Yo\Source\Repos\2d-Shooter-RogueLike-MasterPiece\2D_SFML_GAME\2D_SFML_G
 C:\Users\Yo\Source\Repos\2d-Shooter-RogueLike-MasterPiece\2D_SFML_GAME\2D_SFML_GAME\obj\Debug\2D_SFML_GAME.csprojResolveAssemblyReference.cache
 C:\Users\Yo\Source\Repos\2d-Shooter-RogueLike-MasterPiece\2D_SFML_GAME\2D_SFML_GAME\obj\Debug\2D_SFML_GAME.exe
 C:\Users\Yo\Source\Repos\2d-Shooter-RogueLike-MasterPiece\2D_SFML_GAME\2D_SFML_GAME\obj\Debug\2D_SFML_GAME.pdb
+C:\Users\Yo\Desktop\2d-Shooter-RogueLike-MasterPiece-V0\2D_SFML_GAME_Project\2D_SFML_GAME\2D_SFML_GAME\bin\Debug\2D_SFML_GAME.exe.config
+C:\Users\Yo\Desktop\2d-Shooter-RogueLike-MasterPiece-V0\2D_SFML_GAME_Project\2D_SFML_GAME\2D_SFML_GAME\bin\Debug\2D_SFML_GAME.exe
+C:\Users\Yo\Desktop\2d-Shooter-RogueLike-MasterPiece-V0\2D_SFML_GAME_Project\2D_SFML_GAME\2D_SFML_GAME\bin\Debug\2D_SFML_GAME.pdb
+C:\Users\Yo\Desktop\2d-Shooter-RogueLike-MasterPiece-V0\2D_SFML_GAME_Project\2D_SFML_GAME\2D_SFML_GAME\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Yo\Desktop\2d-Shooter-RogueLike-MasterPiece-V0\2D_SFML_GAME_Project\2D_SFML_GAME\2D_SFML_GAME\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Yo\Desktop\2d-Shooter-RogueLike-MasterPiece-V0\2D_SFML_GAME_Project\2D_SFML_GAME\2D_SFML_GAME\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Yo\Desktop\2d-Shooter-RogueLike-MasterPiece-V0\2D_SFML_GAME_Project\2D_SFML_GAME\2D_SFML_GAME\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Yo\Desktop\2d-Shooter-RogueLike-MasterPiece-V0\2D_SFML_GAME_Project\2D_SFML_GAME\2D_SFML_GAME\obj\Debug\2D_SFML_GAME.csprojResolveAssemblyReference.cache
+C:\Users\Yo\Desktop\2d-Shooter-RogueLike-MasterPiece-V0\2D_SFML_GAME_Project\2D_SFML_GAME\2D_SFML_GAME\obj\Debug\2D_SFML_GAME.exe
+C:\Users\Yo\Desktop\2d-Shooter-RogueLike-MasterPiece-V0\2D_SFML_GAME_Project\2D_SFML_GAME\2D_SFML_GAME\obj\Debug\2D_SFML_GAME.pdb

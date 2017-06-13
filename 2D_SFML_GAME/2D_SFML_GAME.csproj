@@ -64,16 +64,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="C-SHARP-SFML-DLL\csfml-audio-2.dll" />
-    <Content Include="C-SHARP-SFML-DLL\csfml-graphics-2.dll" />
-    <Content Include="C-SHARP-SFML-DLL\csfml-network-2.dll" />
-    <Content Include="C-SHARP-SFML-DLL\csfml-system-2.dll" />
-    <Content Include="C-SHARP-SFML-DLL\csfml-window-2.dll" />
-    <Content Include="C-SHARP-SFML-DLL\libsndfile-1.dll" />
-    <Content Include="C-SHARP-SFML-DLL\openal32.dll" />
-    <Content Include="C-SHARP-SFML-DLL\OpenTK.Compatibility.dll" />
-    <Content Include="C-SHARP-SFML-DLL\OpenTK.dll" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
