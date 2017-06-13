@@ -15,6 +15,7 @@ namespace SFML._2D_SFML_GAME
     {
         class Program
         {
+       
         [DllImport("kernel32.dll")]
         static extern IntPtr GetConsoleWindow();
 
