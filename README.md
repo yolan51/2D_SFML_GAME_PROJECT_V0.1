@@ -1,4 +1,4 @@
-# 2d-Shooter-RogueLike-MasterPiece
+# 2D_SFML_GAME_PROJECT_V0.1
 
 //---------------------------------------------------------------------------------------//
 
@@ -102,3 +102,4 @@ Description : Multiple thread server.
 
 1. The Server version will need to transmit the less data possible. (Few game-logic might have to be optimized to avoid transfering tons useless informations)
 2. Accept multiple client to move around in the most real time possible.
+
