@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using SFML.Graphics;
 using SFML.Window;
 using System.Runtime.InteropServices;
-using _2D_SFML_GAME;
+using Principal_Space;
 
 namespace Controler
 {

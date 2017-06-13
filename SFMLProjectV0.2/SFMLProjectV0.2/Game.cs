@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using SFML.Graphics;
 using SFML.Window;
 
-namespace _2D_SFML_GAME
+namespace Principal_Space
 {
     abstract class Game
     {

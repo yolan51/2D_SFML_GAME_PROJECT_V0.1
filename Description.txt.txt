@@ -20,7 +20,7 @@ Knowledge of design patterns and component driven programming would help.
 
 //---------------------------------------------------//
 
-Bonus points if you come from QuÃ©bec :)
+Bonus points if you come from Québec :)
 
 ----------------------------------------------------The Project-----------------------------------------
 

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SFML.Graphics;
 
-namespace _2D_SFML_GAME
+namespace Principal_Space
 {
     class ImpGame : Game
     {
