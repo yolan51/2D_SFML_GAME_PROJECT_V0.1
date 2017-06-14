@@ -14,8 +14,6 @@ namespace Principal_Space
         protected Color clearColor;
        
 
-
-
         public Game(uint width, uint height, string title, Color color) 
         {
             window = new RenderWindow(new VideoMode(width, height), title, Styles.Close);
