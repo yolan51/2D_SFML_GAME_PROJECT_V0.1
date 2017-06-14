@@ -13,12 +13,35 @@ namespace SpiteBaseClass
         private Texture _TextureTile;
 
         public Tile( string Name, Texture TextureTile)
-        {
+        { 
             _Name = Name;
             _TextureTile = TextureTile;
         }
 
-        public string Name { get => _Name; set => _Name = value; }
-        public Texture TextureTile { get => _TextureTile; set => _TextureTile = value; }
+        public string Name
+        {
+            get
+            {
+                return _Name;
+            }
+
+            set
+            {
+                _Name = value;
+            }
+        }
+
+        public Texture TextureTile
+        {
+            get
+            {
+                return _TextureTile;
+            }
+
+            set
+            {
+                _TextureTile = value;
+            }
+        }
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-using SysSpriteLoader;
+using SysTextureLoader;
 
 namespace Util
 {
@@ -21,11 +21,13 @@ namespace Util
             while (!streamreader.EndOfStream)
             {
                 string line = streamreader.ReadLine();
-                line.Replace(" ", String.Empty);
+                if(line.Contains(" "))
+                {
+                    line.Replace(" ", string.Empty);
+                }
+              
                 listeOfcommande.Add(line);
-              
-
-              
+       
             }
 
 

@@ -13,7 +13,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x86</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -67,6 +67,8 @@
     <Compile Include="SpiteBaseClass\ObjectAnimated.cs" />
     <Compile Include="SpiteBaseClass\StaticGameObject.cs" />
     <Compile Include="SpiteBaseClass\Tile.cs" />
+    <Compile Include="SpriteLoader\GroupTileCollection.cs" />
+    <Compile Include="SpriteLoader\SingleTileCollection.cs" />
     <Compile Include="SpriteLoader\SpriteLoader.cs" />
     <Compile Include="Util\FileLoader.cs" />
   </ItemGroup>
